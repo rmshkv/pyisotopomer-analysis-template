@@ -1,0 +1,14 @@
+name: pyisotopomer-analysis
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel
+  - xarray
+  - matplotlib
+  - bokeh
+  - xlrd
+  - pandas
+  - numpy
+  - pip
+  - pip:
+    - git+https://github.com/rmshkv/pyisotopomer.git

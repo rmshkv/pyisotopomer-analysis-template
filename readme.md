@@ -3,14 +3,12 @@
 First, clone this repository:
 
 ```
-git clone [insert link here]
-
+git clone https://github.com/rmshkv/pyisotopomer-analysis-template.git
 ```
-To install a pre-made environment with everything you need and the correct version of pyisotopomer, run:
+To install a pre-made environment with everything you need and a compatible version of pyisotopomer, run:
 
 ```
 conda env create -f environment.yml
-
 ```
 
 By default, the new environment will be called `pyisotopomer-analysis`. You can change the name by editing the `name` field in `environment.yml`.

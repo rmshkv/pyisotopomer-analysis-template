@@ -1,3 +1,9 @@
+# About
+
+This template is meant to be used with the [pyisotopomer package](https://github.com/ckelly314/pyisotopomer) to analyze mass spectrometer data of nitrous oxide isotopomers. The recommended workflow is described by this flowchart:
+
+![Flowchart](analysis_flowchart.png "Flowchart")
+
 # Installation
 
 First, clone this repository:
